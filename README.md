@@ -1,5 +1,5 @@
 # Go REST API CRUD with PostgreSQL
 
-- Go with Gorilla Mux
+- Golang with Gorilla Mux
 - Gorm with PostgreSQL
 - CRUD
